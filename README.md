@@ -1,4 +1,8 @@
-#Marco Oliveira
-##Focado em desnvolvimento Backend e Devops
+#Marco Oliveira#
+##Focado em desenvolvimento Backend e Devops##
+
+**Linguagens**
+
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 
