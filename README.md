@@ -1,49 +1,57 @@
-# 👨‍💻 Olá, eu sou Marco Oliveira (MrOliveirajau)!
+# 👨‍💻 Sobre Mim
 
-Sou um estudante de Engenharia da Computação apaixonado por **backend** e tecnologias que impulsionam a lógica por trás das aplicações. Estou sempre em busca de aprender, construir soluções eficientes e colaborar com projetos desafiadores.
-
----
-
-## ✨ Sobre mim
-
-* 🎓 Estudante de Engenharia da Computação na Unversidade Anhembi Morumbi
-* 💻 Foco em **Desenvolvimento Backend**
-* 📖 Estudando ativamente: `Node.js`, `Java`, `Python`
-* 🛠 Gosto de criar APIs RESTful, trabalhar com banco de dados e sistemas escaláveis
+Olá! Meu nome é **Marco** e sou um estudante de **Programação**, com foco em **Infraestrutura de Rede** e **Cibersegurança**. Sou apaixonado por tecnologia, redes e tudo o que envolve segurança da informação. Estou em constante aprendizado e busco aplicar meus conhecimentos em projetos práticos e desafiadores.
 
 ---
 
-## 📚 Tecnologias e Ferramentas
+## 🎯 Objetivos
 
-* Linguagens: `JavaScript`, `TypeScript`, `Python`, `Java`
-* Frameworks: `Express.js`, `Spring Boot`, `FastAPI`
-* Banco de dados: `PostgreSQL`, `MongoDB`, `MySQL`
-* Ferramentas: `Git`, `Docker`, `Postman`, `VSCode`
-
----
-
-## 📋 Projetos em Destaque
-
-| Projeto                   | Descrição                                  | Tecnologias                   |
-| ------------------------- | ------------------------------------------ | ----------------------------- |
-| [Nome do Projeto 1](link) | API REST para gerenciamento de tarefas     | Node.js, Express, MongoDB     |
-| [Nome do Projeto 2](link) | Sistema de autenticação com JWT            | Java, Spring Boot, PostgreSQL |
-| [Nome do Projeto 3](link) | Plataforma de cursos online (em andamento) | Python, FastAPI, SQLite       |
+- Aprofundar meus conhecimentos em redes de computadores.
+- Estudar e praticar técnicas de segurança ofensiva e defensiva.
+- Contribuir para projetos open source voltados à cibersegurança.
+- Obter certificações como CompTIA Network+, Security+, e CEH.
 
 ---
 
-## 📞 Contato
+## 🛠️ Tecnologias e Ferramentas
 
-* Email: marco.jau2012@gmail.com
-* LinkedIn: www.linkedin.com/in/oliveira-marco 
-* GitHub: https://github.com/MrOliveirajau
+- 🔐 **Segurança**: Wireshark, Nmap, Burp Suite, Metasploit, Nessus  
+- 🌐 **Redes**: Cisco Packet Tracer, pfSense, Mikrotik  
+- 💻 **Programação**: Python, Bash, PowerShell  
+- 📦 **Infraestrutura**: Linux, Windows Server, Docker, VirtualBox, Proxmox  
+- ☁️ **Cloud**: AWS (iniciante), Azure (iniciante)
 
 ---
 
-👋 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato!
+## 📚 Atualmente Estudando
 
+- Protocolos de rede (TCP/IP, DNS, DHCP, etc.)
+- Hardening de sistemas operacionais
+- Pentest básico e análise de vulnerabilidades
+- Scripts de automação com Python e Bash
 
+---
 
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| `firewall-lab` | Laboratório virtual de firewall com pfSense | pfSense, VirtualBox |
+| `rede-simulada` | Simulação de rede corporativa com Packet Tracer | Cisco Packet Tracer |
+| `script-auditoria` | Script para verificação básica de segurança em Linux | Bash, Linux |
+
+---
+
+## 📫 Como Me Encontrar
+
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Email: seuemail@exemplo.com
+
+---
+
+> 💡 _"A segurança é um processo, não um produto."_  
+> — Bruce Schneier
 
 
 
