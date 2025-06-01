@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Marco** e sou um estudante de **Programação**, com foco em **Infraestrutura de Rede** e **Cibersegurança**. Sou apaixonado por tecnologia, redes e tudo o que envolve segurança da informação. Estou em constante aprendizado e busco aplicar meus conhecimentos em projetos práticos e desafiadores.
+Olá! Meu nome é **Marco** e sou um estudante de **Engenharia da Computação**, com foco em **Infraestrutura de Rede** e **Cibersegurança**. Sou apaixonado por tecnologia, redes e tudo o que envolve segurança da informação. Estou em constante aprendizado e busco aplicar meus conhecimentos em projetos práticos e desafiadores.
 
 ---
 
