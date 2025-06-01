@@ -44,9 +44,9 @@ Olá! Meu nome é **Marco** e sou um estudante de **Engenharia da Computação**
 
 ## 📫 Como Me Encontrar
 
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- Email: seuemail@exemplo.com
+- GitHub: https://github.com/MrOliveirajau
+- LinkedIn: www.linkedin.com/in/oliveira-marco
+- Email: marco.jau2012@gmail.com
 
 ---
 
