@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou Marco Oliveira (MrOliveirajau)!
 
-Sou um estudante de desenvolvimento de software apaixonado por **backend** e tecnologias que impulsionam a lógica por trás das aplicações. Estou sempre em busca de aprender, construir soluções eficientes e colaborar com projetos desafiadores.
+Sou um estudante de Engenharia da Computação apaixonado por **backend** e tecnologias que impulsionam a lógica por trás das aplicações. Estou sempre em busca de aprender, construir soluções eficientes e colaborar com projetos desafiadores.
 
 ---
 
