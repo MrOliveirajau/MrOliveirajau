@@ -30,20 +30,18 @@ Aqui estão alguns projetos que refletem meu aprendizado e progresso:
    - **Repositório**: [Link para o repositório]
 
 ## 📚 O que estou estudando
-- [Tópico ou curso, ex.: Arquitetura de Microserviços no curso da Udemy.]  
-- [Tópico ou tecnologia, ex.: Implementação de CI/CD com GitHub Actions.]  
-- [Outro, ex.: Melhores práticas em segurança de APIs.]
-
+- 
+- 
+- 
 ## 🤝 Como posso contribuir
 - Estou aberto a colaborar em projetos open-source, especialmente aqueles relacionados a [mencione áreas de interesse, ex.: APIs, bancos de dados, etc.].
 - Se você tem um projeto interessante ou precisa de ajuda, entre em contato!
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[seu-usuário]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MrOliveirajau&show_icons=true&theme=radical)
 
 ## 🌐 Conecte-se comigo
 - [LinkedIn] www.linkedin.com/in/oliveira-marco
-- [Portfolio](https://[seu-portfolio].com)  
 - [E-mail] oliveira.marco@ymail.com
 
 ---
