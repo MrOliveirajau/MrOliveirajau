@@ -1,57 +1,52 @@
-# 👨‍💻 Sobre Mim
+# Olá, eu sou Marco Oliveira 👋
 
-Olá! Meu nome é **Marco** e sou um estudante de **Engenharia da Computação**, com foco em **Infraestrutura de Rede** e **Cibersegurança**. Sou apaixonado por tecnologia, redes e tudo o que envolve segurança da informação. Estou em constante aprendizado e busco aplicar meus conhecimentos em projetos práticos e desafiadores.
+Bem-vindo(a) ao meu perfil no GitHub! Sou um **desenvolvedor backend em formação**, apaixonado por criar soluções robustas, escaláveis e eficientes. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, bancos de dados e arquitetura de sistemas, enquanto exploro novas tecnologias e boas práticas.
 
----
-
-## 🎯 Objetivos
-
-- Aprofundar meus conhecimentos em redes de computadores.
-- Estudar e praticar técnicas de segurança ofensiva e defensiva.
-- Contribuir para projetos open source voltados à cibersegurança.
-- Obter certificações como CompTIA Network+, Security+, e CEH.
-
----
+## 🚀 Sobre mim
+- 💻 **Foco**: Desenvolvimento backend com ênfase em Node.js, Python, Java Script e C#.
+- 🌱 **Aprendendo**:  REST APIs, GraphQL, Docker, microserviços.
+- 🎯 **Objetivo**: Contribuir para projetos open-source e desenvolver aplicações que impactem positivamente os usuários.
+- 📫 **Contato**: e-mail oliveira.maroc@ymail.com Linkedin www.linkedin.com/in/oliveira-marco.
 
 ## 🛠️ Tecnologias e Ferramentas
-
-- 🔐 **Segurança**: Wireshark, Nmap, Burp Suite, Metasploit, Nessus  
-- 🌐 **Redes**: Cisco Packet Tracer, pfSense, Mikrotik  
-- 💻 **Programação**: Python, Bash, PowerShell  
-- 📦 **Infraestrutura**: Linux, Windows Server, Docker, VirtualBox, Proxmox  
-- ☁️ **Cloud**: AWS (iniciante), Azure (iniciante)
-
----
-
-## 📚 Atualmente Estudando
-
-- Protocolos de rede (TCP/IP, DNS, DHCP, etc.)
-- Hardening de sistemas operacionais
-- Pentest básico e análise de vulnerabilidades
-- Scripts de automação com Python e Bash
-
----
+- **Linguagens**: JavaScript, Python, C#, Go.
+- **Frameworks**: [ex.: Express, Django, Spring Boot, etc.]
+- **Bancos de Dados**: [ex.: MySQL, PostgreSQL, MongoDB, etc.]
+- **Ferramentas**: [ex.: Docker, Git, Postman, etc.]
+- **Outros**: [ex.: REST, GraphQL, CI/CD, testes unitários]
 
 ## 📂 Projetos em Destaque
+Aqui estão alguns projetos que refletem meu aprendizado e progresso:
 
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| `firewall-lab` | Laboratório virtual de firewall com pfSense | pfSense, VirtualBox |
-| `rede-simulada` | Simulação de rede corporativa com Packet Tracer | Cisco Packet Tracer |
-| `script-auditoria` | Script para verificação básica de segurança em Linux | Bash, Linux |
+1. **[Nome do Projeto]**  
+   - **Descrição**: [Breve descrição do projeto, ex.: API REST para gerenciamento de tarefas.]  
+   - **Tecnologias**: [ex.: Node.js, Express, MongoDB.]  
+   - **Repositório**: [Link para o repositório]  
+   - **Demo** (se aplicável): [Link para uma demo ou deploy]
+
+2. **[Nome do Projeto]**  
+   - **Descrição**: [Ex.: Sistema de autenticação com JWT.]  
+   - **Tecnologias**: [ex.: Python, Flask, PostgreSQL.]  
+   - **Repositório**: [Link para o repositório]
+
+## 📚 O que estou estudando
+- [Tópico ou curso, ex.: Arquitetura de Microserviços no curso da Udemy.]  
+- [Tópico ou tecnologia, ex.: Implementação de CI/CD com GitHub Actions.]  
+- [Outro, ex.: Melhores práticas em segurança de APIs.]
+
+## 🤝 Como posso contribuir
+- Estou aberto a colaborar em projetos open-source, especialmente aqueles relacionados a [mencione áreas de interesse, ex.: APIs, bancos de dados, etc.].
+- Se você tem um projeto interessante ou precisa de ajuda, entre em contato!
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[seu-usuário]&show_icons=true&theme=radical)
+
+## 🌐 Conecte-se comigo
+- [LinkedIn] www.linkedin.com/in/oliveira-marco
+- [Portfolio](https://[seu-portfolio].com)  
+- [E-mail] oliveira.marco@ymail.com
 
 ---
 
-## 📫 Como Me Encontrar
-
-- GitHub: https://github.com/MrOliveirajau
-- LinkedIn: www.linkedin.com/in/oliveira-marco
-- Email: marco.jau2012@gmail.com
-
----
-
-> 💡 _"A segurança é um processo, não um produto."_  
-> — Bruce Schneier
-
-
-
+⭐️ Se gostou de algum projeto, não esqueça de deixar uma estrela no repositório!  
+Obrigado por visitar meu perfil! 😄
