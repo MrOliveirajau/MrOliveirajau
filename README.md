@@ -3,10 +3,10 @@
 Bem-vindo(a) ao meu perfil no GitHub! Sou um **desenvolvedor backend em formação**, apaixonado por criar soluções robustas, escaláveis e eficientes. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, bancos de dados e arquitetura de sistemas, enquanto exploro novas tecnologias e boas práticas.
 
 ## 🚀 Sobre mim
-- 💻 **Foco**: Desenvolvimento backend com ênfase em Node.js, Python, Java Script e C#.
+- 💻 **Foco**: Engenharia de Infraestrutura Cloud/DevOps
 - 🌱 **Aprendendo**:  REST APIs, GraphQL, Docker, microserviços.
 - 🎯 **Objetivo**: Contribuir para projetos open-source e desenvolver aplicações que impactem positivamente os usuários.
-- 📫 **Contato**: e-mail oliveira.maroc@ymail.com Linkedin www.linkedin.com/in/oliveira-marco.
+- 📫 **Contato**: e-mail oliveira.marco@ymail.com Linkedin www.linkedin.com/in/oliveira-marco.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: JavaScript, Python, C#, Go.
